@@ -1,0 +1,13 @@
+{
+    "name": "basic"
+    "scripts": {
+        "start": "node server.js",
+        "dev": "node"
+},
+"keywords":{},
+"author": "",
+"license": "ISC",
+"dependencies": {
+    "express": "4,17,2"
+}
+}
